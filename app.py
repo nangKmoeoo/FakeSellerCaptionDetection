@@ -10,7 +10,7 @@ from sklearn.metrics import roc_curve, auc, accuracy_score, precision_score, rec
 
 st.set_page_config(
     page_title="Fake Seller Caption Detection",
-    page_icon="📦"
+    page_icon=""
 )
 
 
